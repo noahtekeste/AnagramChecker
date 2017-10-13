@@ -70,4 +70,4 @@ public class Anagrams {
 	    return true;
 		
     }//end of isAnagram method
-}//end of solution class
+}//end of Anagrams class
